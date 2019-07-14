@@ -50,7 +50,7 @@ h1 {
     margin: 5px;
     font-family: 'Literata', serif;
     font-size: 2em;
-    direction:RTL;
+    text-align: right;
 }
 button {
     margin: 5px;
