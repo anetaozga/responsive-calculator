@@ -43,6 +43,17 @@ h1 {
 }
 .calculator-screen {
     grid-column: 1/4;
+    grid-row: 2/3;
+    border-color: #fff;
+    border-style: solid;
+    color: #778899;
+    margin: 5px;
+    font-family: 'Literata', serif;
+    font-size: 2em;
+    text-align: right;
+}
+.operation-screen {
+    grid-column: 1/5;
     grid-row: 1/2;
     border-color: #fff;
     border-style: solid;
